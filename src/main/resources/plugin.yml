@@ -1,0 +1,12 @@
+name: ADSpawn
+version: '1.0'
+main: me.alexdev.adspawn.ADSpawn
+api-version: '1.20'
+commands:
+  setspawn:
+    permission: "setspawn.use"
+    usage: "/setspawn"
+  spawn:
+    usage: "/spawn"
+
+
